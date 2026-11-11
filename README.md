@@ -5,7 +5,6 @@ A modern, feature-rich weather application built with Flutter, featuring a clean
 Designed with a premium **Emerald Atmosphere** visual identity, supporting English and Turkish languages, alongside Dark and Light themes.
 
 *This project was developed leveraging open-source packages released by the developer community.*  
-*(این اپلیکیشن به کمک پکیج‌های رایگان منتشرشده توسط سایر برنامه‌نویسان توسعه داده شده است.)*
 
 ---
 
