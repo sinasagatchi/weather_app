@@ -11,11 +11,11 @@ Designed with a premium **Emerald Atmosphere** visual identity, supporting Engli
 ## 📱 App Showcase
 
 <p align="center">
-  <img src="assets/redme/ot9zbi25.jpg" width="100%" alt="Weather App Showcase — Part 1" />
+  <img src="assets/redme/ot9zbi25.jpg" width="40%" alt="Weather App Showcase — Part 1" />
 </p>
 
 <p align="center">
-  <img src="assets/redme/ot9zbi252.jpg" width="100%" alt="Weather App Showcase — Part 2" />
+  <img src="assets/redme/ot9zbi252.jpg" width="40%" alt="Weather App Showcase — Part 2" />
 </p>
 
 ---
