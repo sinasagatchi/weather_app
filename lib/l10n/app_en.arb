@@ -1,0 +1,60 @@
+{
+  "@@locale": "en",
+  "appTitle": "Atmos",
+  "search": "Search",
+  "settings": "Settings",
+  "language": "Language",
+  "english": "English",
+  "turkish": "Turkish",
+  "theme": "Appearance",
+  "system": "System",
+  "light": "Light",
+  "dark": "Dark",
+  "reduceMotion": "Reduce motion",
+  "reduceMotionHint": "Use fewer animations",
+  "favorites": "Your cities",
+  "addCity": "Add a city",
+  "addFirstCity": "Add a city to see its forecast",
+  "searchHint": "Search city, region or country",
+  "searchPrompt": "Find a city",
+  "searching": "Searching cities…",
+  "noSearchResults": "No cities found. Try another search.",
+  "searchError": "Couldn't search right now. Check your connection and retry.",
+  "addFavorite": "Add to favorites",
+  "removeFavorite": "Remove {city} from favorites",
+  "@removeFavorite": {
+    "placeholders": {
+      "city": { "type": "String" }
+    }
+  },
+  "cityAdded": "City added to your favorites",
+  "cityRemoved": "City removed from your favorites",
+  "alreadyFavorite": "This city is already in your favorites",
+  "currentWeather": "Current weather",
+  "hourlyForecast": "Next hours",
+  "weekForecast": "7-day forecast",
+  "today": "Today",
+  "humidity": "Humidity",
+  "wind": "Wind",
+  "precipitation": "Precipitation",
+  "feelsLike": "Feels like",
+  "cachedWeather": "Saved weather · may be out of date",
+  "retry": "Retry",
+  "weatherUnavailable": "Weather is temporarily unavailable.",
+  "weatherSetupError": "Weather service isn't configured. Copy .env.example to .env and add your WeatherAPI key.",
+  "weatherAuthenticationError": "WeatherAPI rejected the key. Check your .env configuration.",
+  "invalidCityError": "That city could not be found. Try another location.",
+  "weatherNetworkError": "Couldn't reach the weather service. Check your connection and retry.",
+  "weatherServiceError": "The weather service is temporarily unavailable. Please try again.",
+  "viewForecast": "Full forecast",
+  "noForecast": "Forecast details are unavailable.",
+  "updated": "Updated {time}",
+  "@updated": {
+    "placeholders": {
+      "time": { "type": "String" }
+    }
+  },
+  "close": "Close",
+  "systemMotion": "System motion settings are also respected.",
+  "settingsSaveError": "Your setting could not be saved. Please try again."
+}

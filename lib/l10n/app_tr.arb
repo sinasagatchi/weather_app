@@ -1,0 +1,60 @@
+{
+  "@@locale": "tr",
+  "appTitle": "Atmos",
+  "search": "Ara",
+  "settings": "Ayarlar",
+  "language": "Dil",
+  "english": "İngilizce",
+  "turkish": "Türkçe",
+  "theme": "Görünüm",
+  "system": "Sistem",
+  "light": "Açık",
+  "dark": "Koyu",
+  "reduceMotion": "Hareketi azalt",
+  "reduceMotionHint": "Daha az animasyon kullan",
+  "favorites": "Şehirleriniz",
+  "addCity": "Şehir ekle",
+  "addFirstCity": "Tahmini görmek için bir şehir ekleyin",
+  "searchHint": "Şehir, bölge veya ülke arayın",
+  "searchPrompt": "Şehir bulun",
+  "searching": "Şehirler aranıyor…",
+  "noSearchResults": "Şehir bulunamadı. Başka bir arama deneyin.",
+  "searchError": "Şu anda arama yapılamıyor. Bağlantınızı kontrol edip tekrar deneyin.",
+  "addFavorite": "Favorilere ekle",
+  "removeFavorite": "{city} şehrini favorilerden kaldır",
+  "@removeFavorite": {
+    "placeholders": {
+      "city": { "type": "String" }
+    }
+  },
+  "cityAdded": "Şehir favorilerinize eklendi",
+  "cityRemoved": "Şehir favorilerinizden kaldırıldı",
+  "alreadyFavorite": "Bu şehir zaten favorilerinizde",
+  "currentWeather": "Anlık hava durumu",
+  "hourlyForecast": "Saatlik tahmin",
+  "weekForecast": "7 günlük tahmin",
+  "today": "Bugün",
+  "humidity": "Nem",
+  "wind": "Rüzgâr",
+  "precipitation": "Yağış",
+  "feelsLike": "Hissedilen",
+  "cachedWeather": "Kayıtlı hava durumu · güncel olmayabilir",
+  "retry": "Tekrar dene",
+  "weatherUnavailable": "Hava durumu şu anda alınamıyor.",
+  "weatherSetupError": "Hava durumu hizmeti yapılandırılmamış. .env.example dosyasını .env olarak kopyalayıp WeatherAPI anahtarınızı ekleyin.",
+  "weatherAuthenticationError": "WeatherAPI anahtarı kabul etmedi. .env yapılandırmanızı kontrol edin.",
+  "invalidCityError": "Şehir bulunamadı. Başka bir konum deneyin.",
+  "weatherNetworkError": "Hava durumu hizmetine ulaşılamıyor. Bağlantınızı kontrol edip tekrar deneyin.",
+  "weatherServiceError": "Hava durumu hizmeti geçici olarak kullanılamıyor. Lütfen tekrar deneyin.",
+  "viewForecast": "Ayrıntılı tahmin",
+  "noForecast": "Tahmin ayrıntıları alınamıyor.",
+  "updated": "Güncelleme: {time}",
+  "@updated": {
+    "placeholders": {
+      "time": { "type": "String" }
+    }
+  },
+  "close": "Kapat",
+  "systemMotion": "Sistem hareket ayarları da dikkate alınır.",
+  "settingsSaveError": "Ayarınız kaydedilemedi. Lütfen tekrar deneyin."
+}
